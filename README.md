@@ -70,11 +70,9 @@ Designed to mimic a professional production environment, it utilizes **Local Sto
 
 | Dashboard Overview | Ticket Creation |
 | :---: | :---: |
-| ![Dashboard Overview](docs/images/dashboard.png)<br>_High-level dashboard metrics and data table_ | ![Create Ticket](docs/images/create-ticket.png)<br>_Accessible form with inline validation_ |
+| ![Dashboard Overview](Images/dashhboard.png)<br>_High-level dashboard metrics and data table_ | ![Create Ticket](Images/ticket%20create.png)<br>_Accessible form with inline validation_ |
 | **Mobile View** | **Ticket Details** |
-| ![Mobile View](docs/images/mobile-view.png)<br>_Adaptive stacking and horizontal scrolling_ | ![View Ticket](docs/images/view-ticket.png)<br>_Read-only detail inspection modal_ |
-
-> **Note:** Create a `docs/images` folder and add these image placeholders to display them correctly.
+| ![Mobile View](Images/mmobile%20view1.png)<br>_Adaptive stacking and horizontal scrolling_ | ![View Ticket](Images/ticket%20details.png)<br>_Read-only detail inspection modal_ |
 
 ---
 
@@ -87,8 +85,7 @@ customer-support-ticket-management-system/
 ├── style.css         # Styling, glassmorphism UI, themes, and animations
 ├── script.js         # Core application logic, state, and event handling
 ├── README.md         # Project documentation
-└── docs/
-    └── images/       # Directory for project screenshots
+└── Images/           # Directory for project screenshots
 ```
 
 ---
@@ -225,7 +222,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 **Vishnu Kumar K R**
 
 - GitHub: [@Vishnu-KumarKR](https://github.com/Vishnu-KumarKR)
-- Portfolio: (https://vishnu-portfoliyo.netlify.app/)
+- Portfolio: https://vishnu-portfoliyo.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/vishnu-kumar-kr/
 - Email: tvishnu506@gmail.com
 
