@@ -225,9 +225,9 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 **Vishnu Kumar K R**
 
 - GitHub: [@Vishnu-KumarKR](https://github.com/Vishnu-KumarKR)
-- Portfolio: [Insert Portfolio Link Here]
-- LinkedIn: [Insert LinkedIn Link Here]
-- Email: [Insert Email Here]
+- Portfolio: (https://vishnu-portfoliyo.netlify.app/)
+- LinkedIn: https://www.linkedin.com/in/vishnu-kumar-kr/
+- Email: tvishnu506@gmail.com
 
 ---
 
